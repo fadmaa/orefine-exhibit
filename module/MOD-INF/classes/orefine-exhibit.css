@@ -1,0 +1,41 @@
+#title {	
+	background:#bcf;
+	font-size:2em;
+	font-weight: bold;
+	}
+#facets-container {
+    width: 200px;
+    float: left;
+	padding-right:10px;
+	height:100%;
+	background: #f2f2f2;
+	}
+#items-container {
+    margin-left: 210px;
+	}
+.clear {
+    clear: both;
+	}
+#items-container  table{
+	border-collapse: collapse;
+	background: #fff;
+	}
+
+th.exhibit-tabularView-columnHeader-sorted, th.exhibit-tabularView-columnHeader {
+	background: #ebeef8;
+	}
+
+div.range-facet, div.list-facet {
+	background: #fff;
+	margin-top: 2em;
+	border-color: #bcf;
+	border-width: 1px;
+	}
+
+div.exhibit-facet-header {
+	background:#bcf;
+	}
+
+.exhibit-collectionView-header div {
+	background:#f2f2f2;
+	}
