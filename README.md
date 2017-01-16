@@ -8,3 +8,6 @@ The exported Exhibit will contain:
 * Filters applied to the data will be applied to the  exported data.
 
 I think it is cool that this extension brings two of [David Huyhn](http://davidhuynh.net/)'s creations together.
+
+## Installation
+Download the ZIP archive from the [relaeses tab](https://github.com/fadmaa/orefine-exhibit/releases) and then follow [the instructions to install Open Refine extensions](https://github.com/OpenRefine/OpenRefine/wiki/Installing-Extensions).
